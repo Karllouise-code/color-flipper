@@ -1,5 +1,5 @@
 const primeColors = ["red", "orange", "yellow", "green", "blue", "pink", "purple", "brown", "black", "white"];
-const bgColor = document.getElementById("bg-color")
+const bgColor = document.querySelector('main')
 const colorEL = document.querySelector('.color')
 
 
